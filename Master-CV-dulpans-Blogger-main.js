@@ -1,6 +1,6 @@
 /* ================================================================================================
 
-jQuery carouFredSel 6.1.0
+jQuery C 6.1.0
 
 Copyright (c) 2022 Dulpan Adi Saragih
 www.dulpanadisaragih.com
